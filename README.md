@@ -1,7 +1,4 @@
-### **Frontend (React) README:**
-
-```markdown
-# React Frontend Setup
+# **Frontend (React) README:**
 
 This is the frontend for the Full Stack application built using React.
 
