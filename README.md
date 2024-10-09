@@ -1,6 +1,3 @@
-
----
-
 ### **Frontend (React) README:**
 
 ```markdown
